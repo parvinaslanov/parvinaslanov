@@ -35,18 +35,10 @@
 
 ---
 
-### 📊 GitHub Metrics & Stats
+### 📊 GitHub Metrics
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/parvinaslanov/parvinaslanov/main/github-metrics.svg" alt="GitHub Metrics" width="100%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=parvinaslanov&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parvinaslanov&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
