@@ -1,3 +1,5 @@
+# README.md
+
 <div align="center">
 
 # Hello World! 🌍
@@ -39,7 +41,11 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Metrics & Stats
+
+<p align="center">
+  <img src="github-metrics.svg" alt="GitHub Metrics" width="100%" />
+</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=parvinaslanov&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" width="48%" alt="GitHub Stats" />
