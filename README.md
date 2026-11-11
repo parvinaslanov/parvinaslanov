@@ -1,30 +1,41 @@
-<!-- 
-  Hi there! 👋 Welcome to my GitHub profile!
-  This README template is inspired by modern developer portfolios 
-  and is fully customizable. Feel free to copy, edit, and make it your own!
--->
+<div align="center">
 
-# Hi there, I'm Parvin Aslanov 👋
+# Hello World! 🌍
 
-<img align="right" src="https://komarev.com/ghpvc/?username=parvinaslanov&label=Profile%20Views&color=0e76a6&style=flat" alt="Profile Views" />
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=parvinaslanov&label=Profile%20Views&color=0e76a6&style=flat-square" alt="Profile Views" />
+</p>
 
-I am a passionate software developer and tech enthusiast based in Azerbaijan. I graduated from the **IT STEP Academy** in 2021 and have continued sharpening my software engineering and debugging skills through immersive programs like **Holberton School**, working with Python, JavaScript, Java, and C++.
+***
+
+### 🛠️ Languages & Tools
+
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com/)
+[![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
+
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
+[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.kernel.org/)
+[![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
+
+</div>
 
 ---
 
-### 💻 Tech Stack & Tools
+### 📖 About Me
 
-| Category | Technologies & Tools |
-| :--- | :--- |
-| **Languages** | Python, JavaScript, Java, C++ |
-| **Development** | Git, GitHub, VS Code, Terminal |
-| **Core Focus** | Software Engineering, Problem Solving, AI & Dev Tools |
+* 🎓 Graduated from **IT STEP Academy** in 2021.
+* 💻 Completed software engineering coursework at **Holberton School**.
+* 🔍 Passionate about software development, debugging, and building clean tools.
+* 📍 Based in **Azerbaijan**.
 
 ---
 
-### 🚀 Featured Projects & Repositories
+### 🚀 Projects
 
-*   **[parvinaslanov/holbertonschool-ai4devs](https://github.com/parvinaslanov/holbertonschool-ai4devs)** – Academic and development projects, technical specifications, and product design files from my software engineering coursework.
+* 📌 **[holbertonschool-ai4devs](https://github.com/parvinaslanov/holbertonschool-ai4devs)** — Repository housing software engineering projects, tech specifications, and product design files.
 
 ---
 
@@ -40,12 +51,8 @@ I am a passionate software developer and tech enthusiast based in Azerbaijan. I 
 
 ---
 
-### 🌐 Connect with Me
+<div align="center">
 
-*   **GitHub:** [github.com/parvinaslanov](https://github.com/parvinaslanov)
+[![GitHub Followers](https://img.shields.io/github/followers/parvinaslanov?style=social)](https://github.com/parvinaslanov)
 
----
-
-<p align="center">
-  <em>⚡ "Always learning, building, and debugging."</em>
-</p>
+</div>
