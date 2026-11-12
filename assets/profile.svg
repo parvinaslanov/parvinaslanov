@@ -1,11 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="840" height="300" viewBox="0 0 840 300" fill="none">
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="340" viewBox="0 0 840 340" fill="none">
   <defs>
     <linearGradient id="borderGrad" x1="0%" y1="0%" x2="100%" y2="100%">
       <stop offset="0%" stop-color="#58a6ff"><animate attributeName="stop-color" values="#58a6ff;#bc8cff;#3fb950;#58a6ff" dur="8s" repeatCount="indefinite" /></stop>
       <stop offset="50%" stop-color="#bc8cff"><animate attributeName="stop-color" values="#bc8cff;#3fb950;#58a6ff;#bc8cff" dur="8s" repeatCount="indefinite" /></stop>
       <stop offset="100%" stop-color="#3fb950"><animate attributeName="stop-color" values="#3fb950;#58a6ff;#bc8cff;#3fb950" dur="8s" repeatCount="indefinite" /></stop>
     </linearGradient>
-    <linearGradient id="bgGrad" x1="0" y1="0" x2="840" y2="300" gradientUnits="userSpaceOnUse">
+    <linearGradient id="bgGrad" x1="0" y1="0" x2="840" y2="340" gradientUnits="userSpaceOnUse">
       <stop offset="0%" stop-color="#0d1117" />
       <stop offset="100%" stop-color="#161b22" />
     </linearGradient>
@@ -28,7 +28,7 @@
     .pulse-ring { transform-origin: 621px 38px; animation: pulseRing 2.2s infinite ease-out; }
     .cursor { animation: blink 0.9s infinite; }
   </style>
-  <rect x="1.5" y="1.5" width="837" height="297" rx="14" fill="url(#bgGrad)" stroke="url(#borderGrad)" stroke-width="2.5" />
+  <rect x="1.5" y="1.5" width="837" height="337" rx="14" fill="url(#bgGrad)" stroke="url(#borderGrad)" stroke-width="2.5" />
   <text x="36" y="52" class="title">Parvin Aslanov</text>
   <rect x="604" y="24" width="200" height="28" rx="14" fill="#161b22" stroke="#30363d" stroke-width="1" />
   <circle cx="621" cy="38" r="5" fill="#3fb950" class="pulse-ring" />
@@ -52,8 +52,8 @@
     <rect x="248" y="38" width="110" height="28" rx="6" fill="#161b22" stroke="#30363d" /><circle cx="262" cy="52" r="4" fill="#58a6ff" /><text x="273" y="56" class="pill-text">Sys Design</text>
   </g>
   <text x="450" y="144" class="section-label">Engineering Focus</text>
-  <rect x="450" y="158" width="354" height="84" rx="10" fill="#161b22" stroke="#30363d" stroke-width="1" />
-  <text x="470" y="188" class="stat-val">Holberton School</text>
-  <text x="470" y="210" class="stat-lbl">Software Engineering & AI Development</text>
-  <text x="36" y="270" class="stat-lbl">github.com/parvinaslanov • Clean architecture, debugging & AI engineering</text>
+  <rect x="450" y="158" width="354" height="66" rx="10" fill="#161b22" stroke="#30363d" stroke-width="1" />
+  <text x="470" y="185" class="stat-val">Holberton School</text>
+  <text x="470" y="205" class="stat-lbl">Software Engineering and AI Development</text>
+  <text x="36" y="310" class="stat-lbl">github.com/parvinaslanov - Clean architecture, debugging and AI engineering</text>
 </svg>
