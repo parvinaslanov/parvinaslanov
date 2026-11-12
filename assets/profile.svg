@@ -1,19 +1,14 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="840" height="340" viewBox="0 0 840 340" fill="none">
   <defs>
     <linearGradient id="borderGrad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#58a6ff"><animate attributeName="stop-color" values="#58a6ff;#bc8cff;#3fb950;#58a6ff" dur="8s" repeatCount="indefinite" /></stop>
-      <stop offset="50%" stop-color="#bc8cff"><animate attributeName="stop-color" values="#bc8cff;#3fb950;#58a6ff;#bc8cff" dur="8s" repeatCount="indefinite" /></stop>
-      <stop offset="100%" stop-color="#3fb950"><animate attributeName="stop-color" values="#3fb950;#58a6ff;#bc8cff;#3fb950" dur="8s" repeatCount="indefinite" /></stop>
+      <stop offset="0%" stop-color="#58a6ff" />
+      <stop offset="50%" stop-color="#bc8cff" />
+      <stop offset="100%" stop-color="#3fb950" />
     </linearGradient>
     <linearGradient id="bgGrad" x1="0" y1="0" x2="840" y2="340" gradientUnits="userSpaceOnUse">
       <stop offset="0%" stop-color="#0d1117" />
       <stop offset="100%" stop-color="#161b22" />
     </linearGradient>
-    <clipPath id="typingClip">
-      <rect x="36" y="72" width="0" height="30">
-        <animate attributeName="width" values="0;375;375;0;0" keyTimes="0;0.35;0.85;0.95;1" dur="9s" repeatCount="indefinite" />
-      </rect>
-    </clipPath>
   </defs>
   <style>
     .title { font: 700 28px -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; fill: #f0f6fc; }
@@ -23,23 +18,13 @@
     .stat-val { font: 700 18px -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; fill: #f0f6fc; }
     .stat-lbl { font: 400 12px -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; fill: #8b949e; }
     .status-text { font: 500 12px -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; fill: #3fb950; }
-    @keyframes pulseRing { 0% { transform: scale(0.85); opacity: 0.9; } 70% { transform: scale(1.9); opacity: 0; } 100% { transform: scale(1.9); opacity: 0; } }
-    @keyframes blink { 0%, 49% { opacity: 1; } 50%, 100% { opacity: 0; } }
-    .pulse-ring { transform-origin: 655px 38px; animation: pulseRing 2.2s infinite ease-out; }
-    .cursor { animation: blink 0.9s infinite; }
   </style>
   <rect x="1.5" y="1.5" width="837" height="337" rx="14" fill="url(#bgGrad)" stroke="url(#borderGrad)" stroke-width="2.5" />
   <text x="36" y="52" class="title">Parvin Aslanov</text>
   <rect x="638" y="24" width="166" height="28" rx="14" fill="#161b22" stroke="#30363d" stroke-width="1" />
-  <circle cx="655" cy="38" r="5" fill="#3fb950" class="pulse-ring" />
   <circle cx="655" cy="38" r="4.5" fill="#3fb950" />
   <text x="668" y="42" class="status-text">Building with AI & Code</text>
-  <g clip-path="url(#typingClip)">
-    <text x="36" y="92" class="subtitle">> Software Engineer | Holberton School</text>
-  </g>
-  <rect x="36" y="76" width="2" height="20" fill="#58a6ff" class="cursor">
-    <animate attributeName="x" values="36;408;408;36;36" keyTimes="0;0.35;0.85;0.95;1" dur="9s" repeatCount="indefinite" />
-  </rect>
+  <text x="36" y="92" class="subtitle">> Software Engineer | Holberton School</text>
   <line x1="36" y1="116" x2="804" y2="116" stroke="#21262d" stroke-width="1.5" />
   <text x="36" y="144" class="section-label">Core Stack & Tools</text>
   <g transform="translate(36, 158)">
