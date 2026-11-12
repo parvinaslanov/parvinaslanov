@@ -33,7 +33,7 @@
   <rect x="638" y="24" width="166" height="28" rx="14" fill="#161b22" stroke="#30363d" stroke-width="1" />
   <circle cx="655" cy="38" r="5" fill="#3fb950" class="pulse-ring" />
   <circle cx="655" cy="38" r="4.5" fill="#3fb950" />
-  <text x="668" y="42" class="status-text">Building with AI and Code</text>
+  <text x="668" y="42" class="status-text">Building with AI & Code</text>
   <g clip-path="url(#typingClip)">
     <text x="36" y="92" class="subtitle">> Software Engineer | Holberton School</text>
   </g>
@@ -41,7 +41,7 @@
     <animate attributeName="x" values="36;408;408;36;36" keyTimes="0;0.35;0.85;0.95;1" dur="9s" repeatCount="indefinite" />
   </rect>
   <line x1="36" y1="116" x2="804" y2="116" stroke="#21262d" stroke-width="1.5" />
-  <text x="36" y="144" class="section-label">Core Stack and Tools</text>
+  <text x="36" y="144" class="section-label">Core Stack & Tools</text>
   <g transform="translate(36, 158)">
     <rect x="0" y="0" width="82" height="28" rx="6" fill="#161b22" stroke="#30363d" /><circle cx="14" cy="14" r="4" fill="#3572A5" /><text x="25" y="18" class="pill-text">Python</text>
     <rect x="92" y="0" width="104" height="28" rx="6" fill="#161b22" stroke="#30363d" /><circle cx="106" cy="14" r="4" fill="#f1e05a" /><text x="117" y="18" class="pill-text">JavaScript</text>
@@ -54,9 +54,9 @@
   <text x="450" y="144" class="section-label">Engineering Focus</text>
   <rect x="450" y="158" width="354" height="130" rx="10" fill="#161b22" stroke="#30363d" stroke-width="1" />
   <text x="470" y="186" class="stat-val">Holberton School</text>
-  <text x="470" y="204" class="stat-lbl">Software Engineering and AI Development</text>
+  <text x="470" y="204" class="stat-lbl">Software Engineering & AI Development</text>
   <line x1="470" y1="218" x2="784" y2="218" stroke="#21262d" stroke-width="1" />
   <text x="470" y="244" class="stat-val">IT STEP Academy</text>
-  <text x="470" y="262" class="stat-lbl">Computer Science and Software Foundations</text>
-  <text x="36" y="310" class="stat-lbl">github.com/parvinaslanov - Clean architecture, debugging and AI engineering</text>
+  <text x="470" y="262" class="stat-lbl">Computer Science & Software Foundations</text>
+  <text x="36" y="310" class="stat-lbl">github.com/parvinaslanov &bull; Clean architecture, debugging & AI-assisted engineering</text>
 </svg>
