@@ -12,16 +12,16 @@
 
 ### 📖 About Me
 
-- 🎓 Graduated from **IT STEP Academy** in 2021.
-- 💻 Completed software engineering coursework at **Holberton School**.
-- 🔍 Passionate about software development, debugging, and building clean tools.
-- 📍 Based in **Azerbaijan**.
+- 🎓 Graduated from **IT STEP Academy** in 2021[cite: 3].
+- 💻 Completed software engineering coursework at **Holberton School**[cite: 3].
+- 🔍 Passionate about software development, debugging, and building clean tools[cite: 3].
+- 📍 Based in **Azerbaijan**[cite: 3].
 
 ---
 
 ### 🚀 Projects
 
-- 📌 **[holbertonschool-ai4devs](https://github.com/parvinaslanov/holbertonschool-ai4devs)** — Repository housing software engineering projects, tech specifications, and product design files.
+- 📌 **[holbertonschool-ai4devs](https://github.com/parvinaslanov/holbertonschool-ai4devs)** — Repository housing software engineering projects, tech specifications, and product design files[cite: 3].
 
 ---
 
