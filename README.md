@@ -1,5 +1,4 @@
-![Parvin Aslanov Profile](https://raw.githubusercontent.com/parvinaslanov/parvinaslanov/main/profile.svg?v=3)
-
+![Parvin Aslanov Profile](./profile.svg?v=3)
 # Hello World! 🌍
 
 <p align="center">
