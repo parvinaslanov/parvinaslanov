@@ -8,7 +8,7 @@
   <img src="https://komarev.com/ghpvc/?username=parvinaslanov&label=Profile%20Views&color=0e76a6&style=flat-square" alt="Profile Views" />
 </p>
 
-***
+---
 
 ### 🛠️ Languages & Tools
 
