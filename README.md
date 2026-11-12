@@ -1,8 +1,7 @@
 <p align="center">
-  <object data="https://raw.githubusercontent.com/parvinaslanov/parvinaslanov/main/profile.svg?v=3" type="image/svg+xml" width="100%">
-    <img src="https://raw.githubusercontent.com/parvinaslanov/parvinaslanov/main/profile.svg?v=3" alt="Parvin Aslanov Profile" />
-  </object>
+  <img src="./assets/profile.svg" alt="Parvin Aslanov Profile" width="100%" />
 </p>
+
 # Hello World! 🌍
 
 <p align="center">
